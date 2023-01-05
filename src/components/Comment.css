@@ -1,0 +1,14 @@
+.comment{
+    width: 220px;
+    height: 250px;
+    background-color: rgb(124, 211, 185);
+    text-align: center;
+}
+.comment-date{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+.userInfo{
+    font-size: 22px;
+    color: rgb(14, 10, 237);
+}
